@@ -7,6 +7,10 @@
 ## Use Case
 
 금융기관의 사기성 신용카드 거래 식별을 위한 MLOps 파이프라인 구축
+XGBoost를 사용한 거래내역 예제
+LogisticRegression을 사용한 한글 칼럼-거래내역 예제 포함
+
+01~03을 수행하면, 새로운 CML프로젝트가 생성되며 모델이 서빙됨
 
 ## Requirements
 
